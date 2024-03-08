@@ -19,7 +19,7 @@
 
 */
 :root {
-    --primary_color: #5B78F6;
+    --primary_color: #ffbc39;
     --dark: #323232;
 }
 *,*::before,*::after {
@@ -54,6 +54,11 @@ a {
 }
 .h-full {
     height: 100%;
+}
+.Work-image{
+    width: 224px ;
+    height: 126px ;
+    object-fit: cover;
 }
 
 /* # Preloader */
@@ -486,7 +491,7 @@ ol {
     height: 224px;
     position: relative;
     overflow: hidden;
-    background: linear-gradient(90deg, #3C58E3 -15%, #C2EBFF 58%, #5AB5E2 97%);
+    background: linear-gradient(90deg, #ffbc39 -15%, #ffbc39 58%, #ffbc39 97%);
     border-radius: 30px 0 30px 0;
     flex: none;
 }
@@ -571,7 +576,7 @@ ol {
     border-radius: 30px;
 }
 .about-area .about-image-box .image-inner {
-    background: linear-gradient(90deg, #3C58E3 -15%, #C2EBFF 58%, #5AB5E2 97%);
+    background: linear-gradient(90deg, #ffbc39 -15%, #ffbc39 58%, #ffbc39 97%);
     border-radius: 30px;
 }
 .about-area .about-image-box img {

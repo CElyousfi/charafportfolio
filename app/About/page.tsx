@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import me2 from '@/public/images/me2.png';
+import me2 from '@/public/images/me.png';
 import bg1 from '@/public/images/bg1.png';
 import icon from '@/public/images/icon.svg';
 import icon2 from '@/public/images/icon2.png';
@@ -31,8 +31,8 @@ export default function About() {
                             </h1>
                             <div className="about-details-inner shadow-box">
                                 <Image src={icon2} alt="Star" />
-                                <h1>David Henderson</h1>
-                                <p>I am a San francisco-based product designer with a focus on web design, illustration, a visual development. I have a diverse range of experience having worked across various fields and industries.</p>
+                                <h1>Charaf EL YOUSFI.</h1>
+                                <p> I'm Charaf, a dedicated Data Analytics Advocate based in vibrant Casablanca, Morocco. My expertise lies in the dynamic realms of Data Analytics and Augmented Reality (AR), where I delve deep into patterns and insights to fuel innovation. Join me in a realm where data-driven strategies merge seamlessly with immersive experiences to shape a brighter future.</p>
                             </div>
 
                         </div>

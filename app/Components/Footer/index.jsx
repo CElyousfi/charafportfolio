@@ -11,6 +11,9 @@ const Footer = () => {
                         <Link href="/" className="logo">
                             <Image src={logo} alt="Logo" />
                         </Link>
+                        
+                        <blockquote className="mt-2"><i>&apos;From Casa to the World!🗽&apos;</i></blockquote>
+                        
                         <ul className="footer-menu">
                             <li><Link href="/">Home</Link></li>
                             <li><Link href="/About">About</Link></li>

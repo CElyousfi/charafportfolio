@@ -25,9 +25,9 @@ export default function Home() {
                                     <Image src={me} alt="About Me" />
                                 </div>
                                 <div className="infos">
-                                    <h4>A WEB DESIGNER</h4>
-                                    <h1>David Henderson.</h1>
-                                    <p>I am a Web Designer based in san francisco.</p>
+                                    <h4>Data Analytics Advocate <br />AR Developper</h4>
+                                    <h1>Charaf <br />EL YOUSFI.</h1>
+                                    <p>I am a data analyst & an AR Developper based in Casablanca.</p>
                                     <Link href="/About" className="about-btn">
                                         <Image src={icon} alt="Button" />
                                     </Link>
@@ -44,16 +44,17 @@ export default function Home() {
                                         <div className="marquee">
                                             <div>
                                                 <span>
-                                                    LATEST WORK AND <b>FEATURED</b>
+                                                    Data <b>Analytics</b> Advocate
                                                     <Image src={star1} alt="Star" />
-                                                    LATEST WORK AND <b>FEATURED</b>
+                                                     <b>Engineering Student </b>Driven by <b>Data insights</b>
                                                     <Image src={star1} alt="Star" />
-                                                    LATEST WORK AND <b>FEATURED</b>
+                                                    AR Developper <b>AR Developper</b>
                                                     <Image src={star1} alt="Star" />
-                                                    LATEST WORK AND <b>FEATURED</b> LATEST WORK AND
+                                                    Data <b>Analytics</b> Advocate
                                                     <Image src={star1} alt="Star" />
-                                                    LATEST WORK AND <b>FEATURED</b> LATEST WORK AND
+                                                     <b>Engineering Student </b> Driven by <b>Data insights</b>
                                                     <Image src={star1} alt="Star" />
+                                                    AR Developper <b>AR Developper</b>
                                                 </span>
                                             </div>
                                         </div>
@@ -90,7 +91,7 @@ export default function Home() {
                                         <div className="about-project-box info-box shadow-box h-full">
                                             <Link className="overlay-link" href="/"></Link>
                                             <Image src={bg1} alt="BG" className="bg-img" />
-                                            <Image src={myworks} alt="My Works" />
+                                            <Image src={myworks} alt="My Works" className="Work-image" />
                                             <div className="d-flex align-items-center justify-content-between">
                                                 <div className="infos">
                                                     <h4>SHOWCASE</h4>
@@ -118,12 +119,12 @@ export default function Home() {
                                 <div data-aos="zoom-in">
                                     <div className="about-blog-box info-box shadow-box h-full">
                                         <Link href="/" className="overlay-link"></Link>
-                                        <Image src={bg1} alt="BG" className="bg-img" />
-                                        <Image src={gfonts} alt="GFonts" />
+                                        <Image src={bg1} alt="BG" className="bg-img"   />
+                                        <Image src={gfonts} alt="GFonts" className="Work-image"/>
                                         <div className="d-flex align-items-center justify-content-between">
                                             <div className="infos">
-                                                <h4>Blog</h4>
-                                                <h1>GFonts</h1>
+                                                <h4>Resume</h4>
+                                                <h1>Download</h1>
                                             </div>
 
                                             <Link href="/" className="about-btn">
@@ -142,15 +143,15 @@ export default function Home() {
                                         <Link href="/" className="overlay-link"></Link>
                                         <Image src={bg1} alt="BG" className="bg-img" />
                                         <div className="icon-boxes">
-                                            <i className="iconoir-camera"></i>
-                                            <i className="iconoir-design-pencil"></i>
-                                            <i className="iconoir-color-filter"></i>
-                                            <i className="iconoir-microphone-speaking"></i>
+                                            <i className="iconoir-graph-up"></i>
+                                            <i className="iconoir-brain-research"></i>
+                                            <i className="iconoir-database"></i>
+                                            <i className="iconoir-vr-tag"></i>
                                         </div>
                                         <div className="d-flex align-items-center justify-content-between">
                                             <div className="infos">
                                                 <h4>specialization</h4>
-                                                <h1>Services Offering</h1>
+                                                <h1>Set of skills</h1>
                                             </div>
 
                                             <Link href="/" className="about-btn">
@@ -171,10 +172,10 @@ export default function Home() {
                                         <Image src={bg1} alt="BG" className="bg-img" />
                                         <div className="inner-profile-icons shadow-box">
                                             <Link href="/">
-                                                <i className="iconoir-dribbble"></i>
+                                                <i className="iconoir-github-circle"></i>
                                             </Link>
                                             <Link href="/">
-                                                <i className="iconoir-twitter"></i>
+                                                <i className="iconoir-linkedin"></i>
                                             </Link>
                                         </div>
                                         <div className="d-flex align-items-center justify-content-between">
@@ -206,8 +207,8 @@ export default function Home() {
                                 <Image src={bg1} alt="BG" className="bg-img" />
                                 <div className="clients d-flex align-items-start gap-24 justify-content-center">
                                     <div className="client-item">
-                                        <h1>07</h1>
-                                        <p>Years <br />Experience</p>
+                                        <h1>24</h1>
+                                        <p>Years <br />old</p> 
                                     </div>
 
                                     <div className="client-item">
