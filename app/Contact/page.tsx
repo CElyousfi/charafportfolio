@@ -65,7 +65,7 @@ export default function Contact() {
                                     </div>
                                     <div className="right">
                                         <span>Location</span>
-                                        <h4>Bd Ali yaata Hay Mohammadi, CASABLANCA <br />MOROCCO <br />20570</h4>
+                                        <h4>CASABLANCA <br />MOROCCO <br />20570</h4>
                                     </div>
                                 </li>
                             </ul>
