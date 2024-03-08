@@ -44,8 +44,8 @@ export default function Contact() {
                                         <i className="iconoir-mail"></i>
                                     </div>
                                     <div className="right">
-                                        <span>MAIL us</span>
-                                        <h4>info@bluebase.com</h4>
+                                        <span>MAIL Me</span>
+                                        <h4>charafelyousfi3@gmail.com</h4>
                                     </div>
                                 </li>
 
@@ -54,27 +54,27 @@ export default function Contact() {
                                         <i className="iconoir-phone"></i>
                                     </div>
                                     <div className="right">
-                                        <span>Contact Us</span>
-                                        <h4>+1 504-899-8221</h4>
+                                        <span>Contact Me</span>
+                                        <h4>+212 6 21431215</h4>
                                     </div>
                                 </li>
 
                                 <li className="d-flex align-items-center" data-aos="zoom-in">
                                     <div className="icon-box shadow-box">
-                                        <i className="iconoir-pin-alt"></i>
+                                        <i className="iconoir-time-zone"></i>
                                     </div>
                                     <div className="right">
                                         <span>Location</span>
-                                        <h4>22 Baker Street, Texas <br />United States <br />W1U 3BW</h4>
+                                        <h4>Bd Ali yaata Hay Mohammadi, CASABLANCA <br />MOROCCO <br />20570</h4>
                                     </div>
                                 </li>
                             </ul>
 
                             <h3 data-aos="fade-up">Social Info</h3>
                             <ul className="social-links d-flex align-center" data-aos="zoom-in">
-                                <li><a className="shadow-box" href="contact.html"><i className="iconoir-dribbble"></i></a></li>
-                                <li><a className="shadow-box" href="contact.html"><i className="iconoir-twitter"></i></a></li>
-                                <li><a className="shadow-box" href="contact.html"><i className="iconoir-instagram"></i></a></li>
+                                <li><a className="shadow-box" href="contact.html"><i className="iconoir-github"></i></a></li>
+                                <li><a className="shadow-box" href="contact.html"><i className="iconoir-linkedin"></i></a></li>
+                              {/*  <li><a className="shadow-box" href="contact.html"><i className="iconoir-instagram"></i></a></li>*/}
                             </ul>
                         </div>
 

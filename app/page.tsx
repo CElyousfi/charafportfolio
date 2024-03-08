@@ -19,7 +19,7 @@ export default function Home() {
                         {/* Here information about u name description + image of u  */}
                         <div className="col-md-6" data-aos="zoom-in">
                             <div className="about-me-box shadow-box">
-                                <Link className="overlay-link" href="/"></Link>
+                                <Link className="overlay-link" href="/About"></Link>
                                 <Image src={bg1} alt="BG" className="bg-img" />
                                 <div className="img-box">
                                     <Image src={me} alt="About Me" />
@@ -89,7 +89,7 @@ export default function Home() {
 
                                     <div data-aos="zoom-in">
                                         <div className="about-project-box info-box shadow-box h-full">
-                                            <Link className="overlay-link" href="/"></Link>
+                                            <Link className="overlay-link" href="/Works"></Link>
                                             <Image src={bg1} alt="BG" className="bg-img" />
                                             <Image src={myworks} alt="My Works" className="Work-image" />
                                             <div className="d-flex align-items-center justify-content-between">
@@ -171,10 +171,10 @@ export default function Home() {
                                     <div className="about-profile-box info-box shadow-box h-full">
                                         <Image src={bg1} alt="BG" className="bg-img" />
                                         <div className="inner-profile-icons shadow-box">
-                                            <Link href="/">
+                                            <Link href="https://github.com/CElyousfi">
                                                 <i className="iconoir-github-circle"></i>
                                             </Link>
-                                            <Link href="/">
+                                            <Link href="https://www.linkedin.com/in/charaf-el-yousfi-b84937279/">
                                                 <i className="iconoir-linkedin"></i>
                                             </Link>
                                         </div>
@@ -184,7 +184,7 @@ export default function Home() {
                                                 <h1>Profiles</h1>
                                             </div>
 
-                                            <Link href="/" className="about-btn">
+                                            <Link href="/Contact" className="about-btn">
                                                 <Image src={icon} alt="Button" />
                                             </Link>
 
@@ -230,7 +230,7 @@ export default function Home() {
                         <div className="col-md-6" data-aos="zoom-in">
 
                             <div className="about-contact-box info-box shadow-box">
-                                <Link className="overlay-link" href="/"></Link>
+                                <Link className="overlay-link" href="/Contact"></Link>
                                 <Image src={bg1} alt="BG" className="bg-img" />
                                 <Image src={icon2} alt="Icon" className="star-icon" />
                                 <h1>Let&apos;s <br />work <span>together.</span></h1>

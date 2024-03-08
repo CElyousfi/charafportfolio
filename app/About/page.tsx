@@ -32,7 +32,7 @@ export default function About() {
                             <div className="about-details-inner shadow-box">
                                 <Image src={icon2} alt="Star" />
                                 <h1>Charaf EL YOUSFI.</h1>
-                                <p> I&apos;m Charaf, a dedicated Data Analytics Advocate based in vibrant Casablanca, Morocco. My expertise lies in the dynamic realms of Data Analytics and Augmented Reality (AR), where I delve deep into patterns and insights to fuel innovation. Join me in a realm where data-driven strategies merge seamlessly with immersive experiences to shape a brighter future.</p>
+                                <p> I&apos;m Charaf, a dedicated Data Analytics Advocate based in vibrant Casablanca, Morocco. My expertise lies in the dynamic realms of Data Analytics and Augmented Reality (AR,VR,MR),WebAR, where I delve deep into patterns and insights to fuel innovation. Join me in a realm where data-driven strategies merge seamlessly with immersive experiences to shape a brighter future.</p>
                             </div>
 
                         </div>
@@ -46,14 +46,14 @@ export default function About() {
 
                                 <ul>
                                     <li>
-                                        <p className="date">2007 - 2017</p>
-                                        <h2>Framer Designer & Developer</h2>
-                                        <p className="type">Bluebase Designs</p>
+                                        <p className="date">November 2020 - Mars 2022</p>
+                                        <h2>Account Manager Junior</h2>
+                                        <p className="type">Evrim Agency</p>    
                                     </li>
-                                    <li>
-                                        <p className="date">2017 - 2023</p>
-                                        <h2>Front-End Developer</h2>
-                                        <p className="type">Larsen & Toubro</p>
+                                     <li>
+                                        <p className="date">July 2023 - August 2023</p>
+                                        <h2>Summer Internship</h2>
+                                        <p className="type">OmiaDATA</p>
                                     </li>
                                 </ul>
                             </div>
@@ -65,14 +65,14 @@ export default function About() {
 
                                 <ul>
                                     <li>
-                                        <p className="date">2004 - 2007</p>
-                                        <h2>Bachelor Degree in Psychology</h2>
-                                        <p className="type">University of California</p>
+                                        <p className="date">2018</p>
+                                        <h2>High School Diploma</h2>
+                                        <p className="type">Groupe Scholaire Ouhoud</p>
                                     </li>
                                     <li>
-                                        <p className="date">2007 - 2009</p>
-                                        <h2>Master Degree in Designing</h2>
-                                        <p className="type">University of Texas</p>
+                                        <p className="date">Now</p>
+                                        <h2>Software Engineering Student</h2>
+                                        <p className="type">EMSI</p>
                                     </li>
                                 </ul>
                             </div>
@@ -87,11 +87,11 @@ export default function About() {
                                     <div className="about-profile-box info-box shadow-box h-full">
                                         <Image src={bg1} alt="BG" className="bg-img" />
                                         <div className="inner-profile-icons shadow-box">
-                                            <a href="/">
-                                                <i className="iconoir-dribbble"></i>
+                                            <a href="https://github.com/CElyousfi">
+                                                <i className="iconoir-github"></i>
                                             </a>
-                                            <a href="/">
-                                                <i className="iconoir-twitter"></i>
+                                            <a href="https://www.linkedin.com/in/charaf-el-yousfi-b84937279/">
+                                                <i className="iconoir-linkedin"></i>
                                             </a>
                                         </div>
                                         <div className="d-flex align-items-center justify-content-between">
@@ -100,7 +100,7 @@ export default function About() {
                                                 <h1>Profiles</h1>
                                             </div>
 
-                                            <Link href="/" className="about-btn">
+                                            <Link href="/Contact" className="about-btn">
                                                 <Image src={icon} alt="Button" />
                                             </Link>
 
