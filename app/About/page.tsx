@@ -32,7 +32,7 @@ export default function About() {
                             <div className="about-details-inner shadow-box">
                                 <Image src={icon2} alt="Star" />
                                 <h1>Charaf EL YOUSFI.</h1>
-                                <p> I'm Charaf, a dedicated Data Analytics Advocate based in vibrant Casablanca, Morocco. My expertise lies in the dynamic realms of Data Analytics and Augmented Reality (AR), where I delve deep into patterns and insights to fuel innovation. Join me in a realm where data-driven strategies merge seamlessly with immersive experiences to shape a brighter future.</p>
+                                <p> I&apos;m Charaf, a dedicated Data Analytics Advocate based in vibrant Casablanca, Morocco. My expertise lies in the dynamic realms of Data Analytics and Augmented Reality (AR), where I delve deep into patterns and insights to fuel innovation. Join me in a realm where data-driven strategies merge seamlessly with immersive experiences to shape a brighter future.</p>
                             </div>
 
                         </div>
