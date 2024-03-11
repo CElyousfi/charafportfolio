@@ -136,6 +136,34 @@ ol {
     border-radius: 30px;
     background: #0F0F0F;
 }
+/*here*/
+.shadow-box .img-box{
+    width: 322px;
+        height: 323.5px;
+        position: relative;
+        overflow: hidden;
+        background: linear-gradient(90deg, #ffbc39 -15%, #ffbc39 58%, #ffbc39 97%);
+        border-radius: 30px 0 30px 0;
+        flex: none;
+}
+@media screen and (min-width:769)
+{
+    .shadow-box .img-box {
+            width: 324px;
+            height: 325.5px;
+            position: relative;
+            overflow: hidden;
+            background: linear-gradient(90deg, #ffbc39 -15%, #ffbc39 58%, #ffbc39 97%);
+            border-radius: 30px 0 30px 0;
+            flex: none;
+        }
+}
+.shadow-box .img-box img{
+        display: block;
+        height: 100%;
+        object-fit: cover;
+        width: 100%;
+}
 .shadow-box::after {
     content: '';
     position: absolute;
