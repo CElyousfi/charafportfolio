@@ -35,7 +35,7 @@ export default function Credentials(){
                         <div className="credential-content flex-1">
                             <div className="credential-about" data-aos="zoom-in">
                                 <h2>About Me</h2>
-                                <p>I'm Charaf, a dedicated Data Analytics Advocate based in vibrant Casablanca, Morocco. My expertise lies in the dynamic realms of Data Analytics and Augmented Reality (AR,VR,MR),WebAR, where I delve deep into patterns and insights to fuel innovation. Join me in a realm where data-driven strategies merge seamlessly with immersive experiences to shape a brighter future.</p>
+                                <p>I&apos;m Charaf, a dedicated Data Analytics Advocate based in vibrant Casablanca, Morocco. My expertise lies in the dynamic realms of Data Analytics and Augmented Reality (AR,VR,MR),WebAR, where I delve deep into patterns and insights to fuel innovation. Join me in a realm where data-driven strategies merge seamlessly with immersive experiences to shape a brighter future.</p>
                             </div>
 
                            {/* <div className="credential-edc-exp credential-experience">
@@ -64,7 +64,7 @@ export default function Credentials(){
 course and has introduce fundamental programming concepts
 including data structures, networked application program interfaces,
 and databases, using the Python programming language. In the
-Capstone Project, you'll use the technol²ogies learned throughout the
+Capstone Project, you&apos;ll use the technologies learned throughout the
 Specialization to design and create your own applications for data
 retrieval, processing, and visualization.</p>
                                 </div>
