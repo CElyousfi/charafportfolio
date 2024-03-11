@@ -140,13 +140,13 @@ export default function Home() {
 
                                 <div data-aos="zoom-in" className="flex-1">
                                     <div className="about-services-box info-box shadow-box h-full">
-                                        <Link href="/" className="overlay-link"></Link>
+                                        <Link href="/Specialization" className="overlay-link"></Link>
                                         <Image src={bg1} alt="BG" className="bg-img" />
                                         <div className="icon-boxes">
                                             <i className="iconoir-graph-up"></i>
-                                            <i className="iconoir-brain-research"></i>
-                                            <i className="iconoir-database"></i>
-                                            <i className="iconoir-vr-tag"></i>
+                                            <i className="iconoir-stat-up"></i>
+                                            <i className="iconoir-magic-wand"></i>
+                                            <i className="iconoir-augmented-reality"></i>
                                         </div>
                                         <div className="d-flex align-items-center justify-content-between">
                                             <div className="infos">
