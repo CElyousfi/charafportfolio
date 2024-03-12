@@ -72,9 +72,9 @@ export default function Contact() {
 
                             <h3 data-aos="fade-up">Social Info</h3>
                             <ul className="social-links d-flex align-center" data-aos="zoom-in">
-                                <li><a className="shadow-box" href="contact.html"><i className="iconoir-github"></i></a></li>
-                                <li><a className="shadow-box" href="contact.html"><i className="iconoir-linkedin"></i></a></li>
-                              {/*  <li><a className="shadow-box" href="contact.html"><i className="iconoir-instagram"></i></a></li>*/}
+                                <li><a className="shadow-box" href="https://github.com/CElyousfi"><i className="iconoir-github"></i></a></li>
+                                <li><a className="shadow-box" href="www.linkedin.com/in/charaf-el-yousfi-b84937279"><i className="iconoir-linkedin"></i></a></li>
+                                <li><a className="shadow-box" href="https://medium.com/@charafelyousfi3"><i className="iconoir-medium"></i></a></li>
                             </ul>
                         </div>
 

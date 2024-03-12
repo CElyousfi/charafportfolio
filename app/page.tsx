@@ -177,6 +177,9 @@ export default function Home() {
                                             <Link href="https://www.linkedin.com/in/charaf-el-yousfi-b84937279/">
                                                 <i className="iconoir-linkedin"></i>
                                             </Link>
+                                            <Link href="https://medium.com/@charafelyousfi3">
+                                                <i className="iconoir-medium"></i>
+                                            </Link>
                                         </div>
                                         <div className="d-flex align-items-center justify-content-between">
                                             <div className="infos">

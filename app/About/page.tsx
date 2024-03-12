@@ -93,6 +93,9 @@ export default function About() {
                                             <a href="https://www.linkedin.com/in/charaf-el-yousfi-b84937279/">
                                                 <i className="iconoir-linkedin"></i>
                                             </a>
+                                            <a href="https://medium.com/@charafelyousfi3">
+                                                <i className="iconoir-medium"></i>
+                                            </a>
                                         </div>
                                         <div className="d-flex align-items-center justify-content-between">
                                             <div className="infos">
@@ -122,7 +125,7 @@ export default function About() {
 
                                 <div data-aos="zoom-in" className="h-full">
                                     <div className="about-crenditials-box info-box shadow-box">
-                                        <Link className="overlay-link" href="/"></Link>
+                                        <Link className="overlay-link" href="/Credentials"></Link>
                                         <Image src={bg1} alt="BG" className="bg-img" />
                                         <Image src={sign} alt="Sign" />
                                         <div className="d-flex align-items-center justify-content-between">
@@ -131,7 +134,7 @@ export default function About() {
                                                 <h1>Credentials</h1>
                                             </div>
 
-                                            <Link href="/" className="about-btn">
+                                            <Link href="/Credentials" className="about-btn">
                                                 <Image src={icon} alt="Button" />
                                             </Link>
 

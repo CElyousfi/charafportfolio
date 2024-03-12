@@ -21,10 +21,10 @@ export default function Credentials(){
                                         <p>@Celyousfi</p>
 
                                         <ul className="social-links d-flex justify-content-center">
-                                            <li><a href="credentials.html#"><i className="iconoir-dribbble"></i></a></li>
-                                            <li><a href="credentials.html#"><i className="iconoir-twitter"></i></a></li>
-                                            <li><a href="credentials.html#"><i className="iconoir-instagram"></i></a></li>
-                                            <li><a href="credentials.html#"><i className="iconoir-facebook-tag"></i></a></li>
+                                            <li><a href="https://github.com/CElyousfi"><i className="iconoir-github-circle"></i></a></li>
+                                            <li><a href="www.linkedin.com/in/charaf-el-yousfi-b84937279"><i className="iconoir-linkedin"></i></a></li>
+                                            <li><a href="https://medium.com/@charafelyousfi3"><i className="iconoir-medium"></i></a></li>
+                                            {/*<li><a href="credentials.html#"><i className="iconoir-facebook-tag"></i></a></li>*/}
                                         </ul>
 
                                     <Link href="/Contact" className="theme-btn">Contact Me</Link>
@@ -74,49 +74,37 @@ retrieval, processing, and visualization.</p>
                                     <h5>Meta</h5>
                                     <p>In this eight-course program by Aptly and Meta, I acquired key skills for a marketing analyst career. Mastering tools like Python, SQL, and Tableau, I applied the OSEMN framework, honing my ability to clean and analyze data. The hands-on projects, including optimizing campaigns with Meta Ads Manager, built a portfolio showcasing my expertise. Completing the Meta Marketing Science Professional Certification exam added a valuable certification to my achievements.</p>
                                 </div>
-                            </div>
                             <div className="credential-edc-exp-item" data-aos="zoom-in">
                                     <h4>Mars , 2024</h4>
                                     <h3>Meta AR developer</h3>
                                     <h5>Meta</h5>
                                     <p>Through Meta&apos;s expertly crafted program, I, as a software professional, delved into the dynamic world of Augmented Reality (AR). Armed with skills in Unity, Spark AR, and Playcanvas, I explored AR applications in marketing, web environments, and games, mastering JavaScript and C#. The hands-on projects, including creating AR effects in Meta Spark and developing a web-based game, not only enriched my skill set but also provided a tangible portfolio showcasing my capabilities. This immersive learning experience has uniquely positioned me for exciting opportunities in AR development across diverse sectors, aligning perfectly with my career aspirations.</p>
                             </div>
+                        </div>
 
                             <div className="skills-wrap">
                                 <h2 data-aos="fade-up">Skills</h2>
                                 <div className="d-grid skill-items gap-24 flex-wrap">
                                     <div className="skill-item" data-aos="zoom-in">
+                                        <span className="percent">95%</span>
+                                        <h3 className="name">Data Visualization and Storytelling</h3>
+                                        <p> Skilled in Tableau, Power BI, Matplotlib, and D3.js, you transform complex data into compelling visuals. You craft interactive dashboards, informative charts, and intuitive representations that communicate insights clearly and drive data-driven decisions.</p>
+                                    </div>
+                                    <div className="skill-item" data-aos="zoom-in">
                                         <span className="percent">85%</span>
-                                        <h3 className="name">Tableau, Power BI, Matplotlib, and D3.js</h3>
-                                        <p>Creating interactive dashboards, informative charts, and intuitive visuals, you communicate intricate insights clearly and engagingly, driving data-driven decision-making.</p>
+                                        <h3 className="name">Data Optimization and Performance Tuning</h3>
+                                        <p>You optimize data processes and pipelines for efficient performance. Leveraging indexing, partitioning, and query rewriting, you fine-tune database queries, ETL processes, and data warehousing solutions to improve throughput and response times.</p>
                                     </div>
                                     <div className="skill-item" data-aos="zoom-in">
-                                        <span className="percent">90%</span>
-                                        <h3 className="name">ETL processes,data warehousing</h3>
-                                        <p>performance optimization principles improves system throughput and response times.</p>
+                                        <span className="percent">70%</span>
+                                        <h3 className="name">AR Development and User Interaction</h3>
+                                        <p>Proficient in ARCore, ARKit, and AR.js, you build immersive AR experiences with intuitive interactions. From world tracking and plane detection to gestural or voice controls, you create engaging user interfaces blending digital and physical worlds.</p>
                                     </div>
                                     <div className="skill-item" data-aos="zoom-in">
-                                        <span className="percent">92%</span>
-                                        <h3 className="name">Blender, play Canvas</h3>
-                                        <p>Non enim praesent</p>
+                                        <span className="percent">75%</span>
+                                        <h3 className="name">3D Modeling and Computer Vision</h3>
+                                        <p>With expertise in 3D modeling tools like Blender and Maya, you create realistic 3D assets for AR. You integrate computer vision capabilities like object detection, tracking, and spatial mapping using OpenCV, ARCore APIs, and ARKit APIs for enhanced experiences.</p>
                                     </div>
-                                    <div className="skill-item" data-aos="zoom-in">
-                                        <span className="percent">90%</span>
-                                        <h3 className="name">ARCore, ARKit, and AR.js</h3>
-                                        <p>build immersive AR experiences, games, and apps with intuitive user interactions. </p>
-                                    </div>
-                                    <div className="skill-item" data-aos="zoom-in">
-                                        <span className="percent">81%</span>
-                                        <h3 className="name">Blender</h3>
-                                        <p>Non enim praesent</p>
-                                    </div>
-                                    <div className="skill-item" data-aos="zoom-in">
-                                        <span className="percent">87%</span>
-                                        <h3 className="name">Meta Spark</h3>
-                                        <p>Non enim praesent</p>
-                                    </div>
-        
-
                                 </div>
                             </div>
 
