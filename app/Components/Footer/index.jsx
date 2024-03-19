@@ -21,7 +21,7 @@ const Footer = () => {
                             <li><Link href="/Contact">Contact</Link></li>
                         </ul>
                         <p className="copyright">
-                            &copy; All rights reserved by <span><a href="https://bennis-yahya.vercel.app/" target='_blank'>Bennis Yahya</a></span>
+                          2024 &copy; Created by <span>CElyousfi</span>
                         </p>
                     </div>
                 </div>
