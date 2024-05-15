@@ -127,7 +127,7 @@ export default function Home() {
                                                 <h1>Download</h1>
                                             </div>
 
-                                            <Link href="/" className="about-btn">
+                                            <Link href="C:\Users\hp\Downloads\charafportfolio\public\cv\Lucas Porter-Bakker.pdf" className="about-btn">
                                                 <Image src={icon} alt="Button" />
                                             </Link>
 

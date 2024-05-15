@@ -58,7 +58,7 @@ export default function Credentials(){
                                 <h2 data-aos="fade-up">Certifications</h2>
                                 <div className="credential-edc-exp-item" data-aos="zoom-in">
                                     <h4>June , 2023</h4>
-                                    <h3>Python for everybody</h3>
+                                    <h3><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/WWWRMFPEE7SM">Python for everybody</a></h3>
                                     <h5>University of Michigan</h5>
                                     <p>This Specialization builds on the success of the Python for Everybody
 course and has introduce fundamental programming concepts
@@ -70,9 +70,15 @@ retrieval, processing, and visualization.</p>
                                 </div>
                                 <div className="credential-edc-exp-item" data-aos="zoom-in">
                                     <h4>Aug , 2023</h4>
-                                    <h3>Meta Marketing Analytics Professional Certificate</h3>
+                                    <h3><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/UWF6LEXEYUU4">Meta Marketing Analytics Professional Certificate</a></h3>
                                     <h5>Meta</h5>
-                                    <p>In this eight-course program by Aptly and Meta, I acquired key skills for a marketing analyst career. Mastering tools like Python, SQL, and Tableau, I applied the OSEMN framework, honing my ability to clean and analyze data. The hands-on projects, including optimizing campaigns with Meta Ads Manager, built a portfolio showcasing my expertise. Completing the Meta Marketing Science Professional Certification exam added a valuable certification to my achievements.</p>
+                                    <p>In this specialization, learners developed and honed essential
+marketing analytics skills, including basic principles of marketing,
+analytics tasks such as using SQL queries to pull data from a database
+and cleaning data using spreadsheets. Learners also developed a
+foundational understanding of statistics, explored common analytics
+methods used by marketers to evaluate and communicate the results
+of advertising campaigns and Meta Marketing analytics tools.</p>
                                 </div>
                             <div className="credential-edc-exp-item" data-aos="zoom-in">
                                     <h4>Mars , 2024</h4>
