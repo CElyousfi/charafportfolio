@@ -121,17 +121,19 @@ export default function Home() {
                                         <Link href="/" className="overlay-link"></Link>
                                         <Image src={bg1} alt="BG" className="bg-img"   />
                                         <Image src={gfonts} alt="GFonts" className="Work-image"/>
+                                       <a href="C:\Users\hp\Downloads\charafportfolio\public\cv\Lucas Porter-Bakker.pdf">
                                         <div className="d-flex align-items-center justify-content-between">
                                             <div className="infos">
                                                 <h4>Resume</h4>
                                                 <h1>Download</h1>
                                             </div>
 
-                                            <Link href="C:\Users\hp\Downloads\charafportfolio\public\cv\Lucas Porter-Bakker.pdf" className="about-btn">
+                                            <Link href="/" className="about-btn">
                                                 <Image src={icon} alt="Button" />
                                             </Link>
 
                                         </div>
+                                        </a>
                                     </div>
                                 </div>
                                 {/* End of this section */}
